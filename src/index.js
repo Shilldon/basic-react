@@ -4,7 +4,21 @@ import './index.css';
 
 const Board = () => {
   return (
-    <div className="game-board"></div>
+    <div className="game-board">
+      <Card />
+    </div>
+  )
+}
+
+function renderCard() {
+  return (
+    <Card />
+  )
+}
+
+function Card() {
+  return (
+    <div className="game-card"></div>
   )
 }
 

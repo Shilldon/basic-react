@@ -15,6 +15,14 @@ code {
 
 .game-board {
   background-color: darkgreen;
-  height: 100vh;
+  height: 98vh;
   width: 100vw;
+  padding-top: 2vh;
+}
+
+.game-card {
+  background-color: red;
+  height: 10vh;
+  width: 5vw;
+  margin-left: 2vw;
 }
