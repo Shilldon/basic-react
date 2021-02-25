@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# Playing with REACT
+
+## Overview
+This is a simple project for my first foray into React.\
+6 cards are displayed and on clicking a card it changes from red to white.\
+After clicking a card it will revert to red in between 250ms and 2000ms. \
+The object is to turn all cards white. If successful the cards stop changing back to red.\
+
+## Deployment
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
