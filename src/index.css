@@ -21,8 +21,15 @@ code {
 }
 
 .game-card {
-  background-color: red;
   height: 10vh;
   width: 5vw;
   margin-left: 2vw;
+}
+
+.unflipped-card {
+  background-color: red;
+}
+
+.flipped-card {
+  background-color: white;
 }
